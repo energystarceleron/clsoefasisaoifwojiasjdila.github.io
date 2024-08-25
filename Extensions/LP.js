@@ -129,11 +129,11 @@
   /* REGISTER */
 
   SWAM.registerExtension ({
-    name: 'Laser Pointer',
-    id: 'fabiospampinato.laserPointer',
-    description: 'Add a laser pointer to your spaceship!',
-    version: '1.0.0',
-    author: 'Fabio Spampinato'
+    name: 'testr',
+    id: 'placeholder',
+    description: 'test',
+    version: '9.9.9',
+    author: 'testextensionplaceholder'
   });
 
 }());

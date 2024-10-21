@@ -136,7 +136,9 @@
         description: 'extension compatib. w/ starmash',
         version: '1.0.0',
         author: 'q'
-    });
+         });
+})();
+   
 
  
 })();

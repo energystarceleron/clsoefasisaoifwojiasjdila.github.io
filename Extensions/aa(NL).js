@@ -293,9 +293,8 @@
 
     setInterval(drawBoxes, 16);
     setInterval(createLaser, 16);
-     }
 
-    // Register the extension with StarMash
+    // Register the extension with StarMash (moved inside the main function)
     SWAM.registerExtension({
         name: 'aal',
         id: 'aal',

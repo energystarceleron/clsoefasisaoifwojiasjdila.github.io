@@ -38,7 +38,7 @@
           display: block;
           height: 3px;
           width: calc( 50vw * 1.5 );
-          opacity: .10;
+          opacity: .40;
           background: white;
           position: fixed;
           top: 50%;

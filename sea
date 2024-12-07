@@ -155,7 +155,6 @@
 
       return $.extend ( super._getCustomFiles (), {
         'map_sea.jpg': 'map_sea_grid.jpg',
-        'map_sea_mask.jpg': 'map_sea_mask_grid.png'
       });
 
     }

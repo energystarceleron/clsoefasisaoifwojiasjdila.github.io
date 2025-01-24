@@ -140,9 +140,9 @@
   }
 
   $.extend ( HitCirclesTheme, {
-    themeName: 'Hit Circles',
-    description: 'A theme that replace every image with their actual hit circles.',
-    author: 'Fabio Spampinato'
+    themeName: 'FLGYWGY',
+    description: 'FLGYWGY.',
+    author: 'FLGYWGY'
   });
 
   /* THEME + GRID */

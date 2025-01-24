@@ -1,6 +1,4 @@
 
-(function () {
-
   /* THEME */
 
   class HitCirclesTheme extends VanillaTheme {
@@ -167,8 +165,8 @@
 
   $.extend ( HitCirclesGridTheme, {
     themeName: 'FLGYWGY',
-    description: 'custom',
-    author: 'WUGGY'
+    description: 'FLGYWGY.',
+    author: 'FLGYWGY'
   });
 
   /* REGISTER */
@@ -176,9 +174,9 @@
   SWAM.registerExtension ({
     name: 'FLGYWGY',
     id: 'fabiospampinato.hitCircles',
-    description: 'custom',
+    description: 'FLGYWGY.',
     version: '1.0.0',
-    author: 'WUGGY',
+    author: 'FLGYWGY',
     themes: [HitCirclesTheme, HitCirclesGridTheme]
   });
 
